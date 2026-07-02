@@ -33,7 +33,7 @@ This ensures consistent risk management and saves valuable trading time.
 
 > *(Replace with your screenshot)*
 
-![Live Position Calculator](images/panel.png)
+![Live Position Calculator](images/001.png)
 
 ---
 
