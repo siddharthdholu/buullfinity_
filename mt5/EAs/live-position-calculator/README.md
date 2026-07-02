@@ -31,7 +31,7 @@ This ensures consistent risk management and saves valuable trading time.
 
 ## Panel Preview
 
-> *(Replace with your screenshot)*
+> *Screen-shot*
 
 ![Live Position Calculator](images/001.png)
 
