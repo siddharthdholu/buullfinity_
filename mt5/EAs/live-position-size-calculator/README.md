@@ -31,7 +31,7 @@ This ensures consistent risk management and saves valuable trading time.
 
 ## Panel Preview
 
-> *Screen-shot*
+> *XAUUSD Chart*
 
 ![Live Position Calculator](images/001.png)
 
